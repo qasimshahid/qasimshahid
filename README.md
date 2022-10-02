@@ -1,4 +1,5 @@
 - 👋 Hi, my name is Qasim! Welcome to my GitHub page, where I'll be posting mostly class projects for now, but hopefully personal projects sometime soon as well!
+
 - 🌱 I’m currently studying Computer Science @ George Mason University
 
 <!---
