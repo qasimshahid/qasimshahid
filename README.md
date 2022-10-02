@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @qasimshahid
-- 👀 I’m interested in many things
 - 🌱 I’m currently studying Computer Science @ George Mason University
 
 <!---
