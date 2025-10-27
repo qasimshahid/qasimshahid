@@ -1,8 +1,8 @@
 - 👋 Hi, my name is Qasim. Welcome to my GitHub page! 
 
-- 📖 I’m currently heading into my third year of studying Computer Science at George Mason University, aiming to graduate in Summer or Fall 2024.
+- 📖 I’m a Master of Science graduate from George Mason University's Computer Science program.
 
-- 📧 Reach me through LinkedIn or my email, qshahid@gmu.edu  
+- 📧 Feel free to reach out to me on LinkedIn (or even here if you'd like!)
 
 <!---
 qasimshahid/qasimshahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
